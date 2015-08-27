@@ -1,8 +1,7 @@
 package com.java.main;
 
-
-
 public class Bike {
+	
 	void run()
 	{
 		System.out.println("running");
@@ -15,4 +14,6 @@ public class Bike {
 			System.out.println("running at 100km");
 		 }
 	}
-	 
+	
+
+
